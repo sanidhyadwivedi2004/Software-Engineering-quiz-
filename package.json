@@ -1,0 +1,23 @@
+{
+  "name": "software-engineering-quiz",
+  "version": "1.0.0",
+  "description": "Advanced quiz system for software engineering students with achievements and analytics",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel",
+    "deploy:prod": "vercel --prod"
+  },
+  "keywords": [
+    "quiz",
+    "software-engineering",
+    "education",
+    "achievements",
+    "analytics"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^33.0.0"
+  }
+}
