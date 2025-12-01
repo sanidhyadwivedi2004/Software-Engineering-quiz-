@@ -2,7 +2,7 @@
 
 ## Pre-Deployment
 
-### Files Check
+### Files Check  
 - [ ] `index.html` - Main quiz page
 - [ ] `styles.css` - All styling including dark mode
 - [ ] `script.js` - Quiz logic with analytics
@@ -215,3 +215,4 @@ Before going live:
 
 *Last Updated: [Current Date]*
 *Deployment Status: [ ] Not Started [ ] In Progress [ ] Complete*
+
