@@ -115,7 +115,7 @@ Tracks engagement with leaderboard feature.
 - **Time Analysis**: How long students take
 - **Difficulty Patterns**: Which questions are hardest
 
-### User Behavior
+### User Behavior   
 - **Peak Usage Times**: When students take the quiz
 - **Device Preferences**: Mobile vs Desktop usage
 - **Theme Preferences**: Dark vs Light mode popularity
@@ -276,6 +276,7 @@ If not appearing:
 ✅ **Easy to Use** - No configuration needed
 
 Your quiz is now a data-driven learning platform! 📊🎓
+
 
 
 
