@@ -25,7 +25,7 @@ An interactive, feature-rich quiz application for software engineering students 
 - **Icons**: Font Awesome 6
 - **Fonts**: Google Fonts (Inter)
 
-## Deployment to Vercel
+## Deployment to Vercel 
 
 ### Option 1: Deploy via Vercel CLI
 
@@ -182,6 +182,7 @@ For issues or questions, please open an issue on GitHub.
 ---
 
 Made with ❤️ for Software Engineering Students
+
 
 
 
