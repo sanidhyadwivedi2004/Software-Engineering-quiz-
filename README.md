@@ -9,7 +9,7 @@ An interactive, feature-rich quiz application for software engineering students 
 - 📊 **Real-time Analytics** - Track user behavior and quiz performance with Vercel Analytics
 - 🎨 **Dark Mode** - Toggle between light and dark themes 
 - ⚡ **Advanced Features**: 
-  - Question shuffling every round
+  - Question shuffling every round 
   - Timer with visual warnings
   - Answer explanations
   - Difficulty indicators
@@ -182,6 +182,7 @@ For issues or questions, please open an issue on GitHub.
 ---
 
 Made with ❤️ for Software Engineering Students
+
 
 
 
