@@ -2,7 +2,7 @@
  
 An interactive, feature-rich quiz application for software engineering students with achievements, leaderboards, and analytics.
 
-## Features 
+## Features  
 
 - 🎯 **20 Software Engineering Questions** - Covering design patterns, algorithms, databases, and more
 - 🏆 **Achievement System** - Unlock achievements based on performance, speed, and accuracy
@@ -182,6 +182,7 @@ For issues or questions, please open an issue on GitHub.
 ---
 
 Made with ❤️ for Software Engineering Students
+
 
 
 
