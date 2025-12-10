@@ -7,7 +7,7 @@ An interactive, feature-rich quiz application for software engineering students 
 - 🎯 **20 Software Engineering Questions** - Covering design patterns, algorithms, databases, and more
 - 🏆 **Achievement System** - Unlock achievements based on performance, speed, and accuracy
 - 📊 **Real-time Analytics** - Track user behavior and quiz performance with Vercel Analytics
-- 🎨 **Dark Mode** - Toggle between light and dark themes
+- 🎨 **Dark Mode** - Toggle between light and dark themes 
 - ⚡ **Advanced Features**:
   - Question shuffling every round
   - Timer with visual warnings
@@ -182,6 +182,7 @@ For issues or questions, please open an issue on GitHub.
 ---
 
 Made with ❤️ for Software Engineering Students
+
 
 
 
