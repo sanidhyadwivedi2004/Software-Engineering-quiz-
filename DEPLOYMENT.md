@@ -7,7 +7,7 @@
 Make sure all files are in your project directory:
 - ✅ index.html 
 - ✅ styles.css 
-- ✅ script.js
+- ✅ script.js 
 - ✅ questions.js
 - ✅ vercel.json
 - ✅ 1.svg
@@ -126,5 +126,6 @@ Vercel will automatically redeploy!
 ---
 
 Happy Deploying! 🚀
+
 
 
