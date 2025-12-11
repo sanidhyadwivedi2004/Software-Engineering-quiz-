@@ -1,4 +1,4 @@
-# Quick Deployment Guide 
+# Quick Deployment Guide  
 
 ## Deploy to Vercel in 3 Steps
 
@@ -126,6 +126,7 @@ Vercel will automatically redeploy!
 ---
 
 Happy Deploying! 🚀
+
 
 
 
