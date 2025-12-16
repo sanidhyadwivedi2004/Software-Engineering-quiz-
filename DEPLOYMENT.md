@@ -5,7 +5,7 @@
 ### Step 1: Prepare Your Project
 
 Make sure all files are in your project directory: 
-- ✅ index.html 
+- ✅ index.html  
 - ✅ styles.css 
 - ✅ script.js  
 - ✅ questions.js
@@ -126,6 +126,7 @@ Vercel will automatically redeploy!
 ---
 
 Happy Deploying! 🚀
+
 
 
 
