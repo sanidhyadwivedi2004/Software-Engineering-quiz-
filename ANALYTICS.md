@@ -1,7 +1,7 @@
 # 📊 Vercel Analytics Integration   
   
 ## Overview 
-
+ 
 Your quiz system is now fully integrated with Vercel Analytics, providing comprehensive insights into user behavior and quiz performance.
 
 ## What's Being Tracked
@@ -276,6 +276,7 @@ If not appearing:
 ✅ **Easy to Use** - No configuration needed
 
 Your quiz is now a data-driven learning platform! 📊🎓
+
 
 
 
