@@ -3,7 +3,7 @@
 ## Deploy to Vercel in 3 Steps
 
 ### Step 1: Prepare Your Project
-
+         
 Make sure all files are in your project directory: 
 - ✅ index.html  
 - ✅ styles.css 
@@ -126,6 +126,7 @@ Vercel will automatically redeploy!
 ---
 
 Happy Deploying! 🚀
+
 
 
 
