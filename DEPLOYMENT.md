@@ -10,7 +10,7 @@ Make sure all files are in your project directory:
 - ✅ script.js  
 - ✅ questions.js
 - ✅ vercel.json
-- ✅ 1.svg
+- ✅ 1.svg  
 
 ### Step 2: Deploy
 
@@ -126,6 +126,7 @@ Vercel will automatically redeploy!
 ---
 
 Happy Deploying! 🚀
+
 
 
 
