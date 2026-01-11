@@ -5,7 +5,7 @@
 Your quiz system is now fully integrated with Vercel Analytics, providing comprehensive insights into user behavior and quiz performance.
 
 ## What's Being Tracked
- 
+  
 ### 1. Automatic Tracking (Built-in)
 - **Page Views** - Every time someone visits the quiz
 - **Unique Visitors** - Individual users (cookie-based)
@@ -276,6 +276,7 @@ If not appearing:
 ✅ **Easy to Use** - No configuration needed
 
 Your quiz is now a data-driven learning platform! 📊🎓
+
 
 
 
