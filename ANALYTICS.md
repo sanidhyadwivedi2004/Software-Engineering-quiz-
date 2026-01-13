@@ -19,7 +19,7 @@ Your quiz system is now fully integrated with Vercel Analytics, providing compre
 #### Quiz Start Event
 ```javascript
 Event: 'quiz_started'
-Data: {
+Data: { 
   student_id: string
 }
 ```
@@ -276,6 +276,7 @@ If not appearing:
 ✅ **Easy to Use** - No configuration needed
 
 Your quiz is now a data-driven learning platform! 📊🎓
+
 
 
 
